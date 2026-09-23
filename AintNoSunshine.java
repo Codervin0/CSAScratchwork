@@ -32,30 +32,24 @@ public class AintNoSunshine {
       goesAway();
       goesAway();
       goesAway();
-      
-   
    }
    
-   
-   
-      public static void sunshine() {
-         System.out.println("Ain't no sunshine when she's gone");
-      }
+   public static void sunshine() {
+      System.out.println("Ain't no sunshine when she's gone");
+   }
       
-      public static void goesAway() {
-         System.out.println("Anytime she goes away");
-      }
+   public static void goesAway() {
+      System.out.println("Anytime she goes away");
+   }
       
-      public static void shesGone() {
-         System.out.println("when she's gone");
-      }
-      public static void iKnow() {
-         System.out.println("I know, I know, I know, I know, I know");
-      }
-      public static void noHome() {
-         System.out.println("And this house just ain't no home");
-      }
+   public static void shesGone() {
+      System.out.println("when she's gone");
+   }
+   public static void iKnow() {
+      System.out.println("I know, I know, I know, I know, I know");
+   }
+   public static void noHome() {
+      System.out.println("And this house just ain't no home");
+   }
 
-   
-   
 }
